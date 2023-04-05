@@ -6,9 +6,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
+- React
 - CSS
 - JavaScript
+- API
 
 ## 🚧 Projeto
 
@@ -16,6 +17,6 @@ Consumindo a Api do github
 
 ## 👾 API:
 
-Figma: https://www.figma.com/community/file/1210742931957448073
+API: https://api.github.com/users/
 
 ---
